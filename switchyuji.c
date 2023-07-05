@@ -11,7 +11,7 @@ int add (int x, int y)
 
 int main(int argc, char *argv[]) {
 	
-	printf ("ÊäÈë1~10\n");
+	printf ("è¾“å…¥1~10\n");
 	
 	int c = add(6, 3);
 	
